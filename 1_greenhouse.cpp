@@ -10,7 +10,7 @@
 #include "CayenneLPP.h"
 #include "lora_radio_helper.h"
 #include "DHT.h"   
-#include "standby.h"      //library for placing the MCu to sleep  
+#include "standby.h"      //library for placing the MCu to sleep. to remove this comment here.  
 
 #define     STANDBY_TIME_S          5 * 60   // standby time  for the board 
 
